@@ -135,6 +135,6 @@ def update_dashboard(selected_cuisine, calorie_range):
     return bar_chart, scatter_plot, heatmap, line_chart
 
 
-# Run the app
-if __name__ == "__main__":
-    app.run_server(debug=True, port=8054)
+# # Run the app
+# if __name__ == "__main__":
+#     app.run_server(debug=True, port=8054)
